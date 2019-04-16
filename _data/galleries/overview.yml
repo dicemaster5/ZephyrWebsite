@@ -1,12 +1,12 @@
 -
- title: A Very Very Basic Example Gallery
+ title: Screenshot Gallery
  directory: test
  preview:
-  filename: s1
-  original: s1.png
+  filename: s12
+  original: s12.png
   sizes:
-  - s1.png
-  - s1.png
-  - s1.png
-  thumbnail: s1.png
+  - s12.png
+  - s12.png
+  - s12.png
+  thumbnail: s12.png
 
