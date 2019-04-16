@@ -17,6 +17,15 @@ pictures:
   - s1.png
   - s1.png
   thumbnail: s1.png
-  title: Boekentoren
-  caption: Re-Construct/"Den djoef" by I-Illusions
+  title: Screenshot 1
+  caption: The first screenshot
+- filename: s2
+  original: s2.png
+  sizes:
+  - s2.png
+  - s2.png
+  - s2.png
+  thumbnail: s2.png
+  title: Screenshot 2
+  caption: The second screenshot
 
