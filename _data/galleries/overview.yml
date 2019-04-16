@@ -1,23 +1,12 @@
 -
  title: A Very Basic Example Gallery
- directory: images
+ directory: test
  preview:
   filename: s1
   original: s1.png
   sizes:
   - s1.png
-  - VS-2012-6088-2121x1414.jpg
-  - VS-2012-6088-2999x1999.jpg
+  - s1.png
+  - s1.png
   thumbnail: s1.png
--
- title: A More Complicated Example Gallery
- directory: ghent-light-festival
- picture_path: ghent-light-festival/part1
- preview:
-  filename: Lichtfestival-0058
-  original: Lichtfestival-0058-6000x4000.jpg
-  sizes:
-  - Lichtfestival-0058-2121x1414.jpg
-  - Lichtfestival-0058-2999x1999.jpg
-  - Lichtfestival-0058-4242x2828.jpg
-  thumbnail: Lichtfestival-0058-thumbnail.jpg
+
